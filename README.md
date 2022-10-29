@@ -1,6 +1,8 @@
 <img src="https://github.com/shridhiaggarwal/shridhiaggarwal/blob/main/Images/Banner.png" width="100%">
 
-### Hi there 👋
+# Hello!! <img src="https://github.com/shridhiaggarwal/shridhiaggarwal/main/Images/wave.gif" width="30px">
+
+I'm Shridhi, a Software Engineer at Compro Technologies and Volunteer at WWCode FrontEnd. I've been working as a front-end developer for the past few years, and I love it!
 
 <!--
 **shridhiaggarwal/shridhiaggarwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
