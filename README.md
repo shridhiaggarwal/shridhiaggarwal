@@ -1,6 +1,6 @@
 <img src="https://github.com/shridhiaggarwal/shridhiaggarwal/blob/main/Images/Banner.png" width="100%">
 
-# Hello!! <img src="https://github.com/shridhiaggarwal/shridhiaggarwal/main/Images/wave.gif" width="30px">
+# Hello!! <img src="https://github.com/shridhiaggarwal/shridhiaggarwal/blob/main/Images/wave.gif" width="30px">
 
 I'm Shridhi, a Software Engineer at Compro Technologies and Volunteer at WWCode FrontEnd. I've been working as a front-end developer for the past few years, and I love it!
 
