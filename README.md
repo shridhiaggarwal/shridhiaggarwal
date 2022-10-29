@@ -1,3 +1,5 @@
+<img src="https://github.com/shridhiaggarwal/shridhiaggarwal/blob/main/Images/Banner.png" width="100%">
+
 ### Hi there 👋
 
 <!--
