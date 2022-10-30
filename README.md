@@ -13,14 +13,14 @@ I am Shridhi, a Software Engineer at Compro Technologies and Volunteer at WWCode
 ## 🛠️ Skills
 
 ### Languages
-<div display="flex">
+<div display="flex" gridGap="4px">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
 </div>
 
 ### Frontend
-<div display="flex">
+<div display="flex" gridGap="4px">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40"/>
@@ -36,21 +36,23 @@ I am Shridhi, a Software Engineer at Compro Technologies and Volunteer at WWCode
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
 
 ### Tools
-
-![](https://img.shields.io/badge/Version_Control-Git-informational?style=flat&logo=git&logoColor=white&color=aee2f2)
-![](https://img.shields.io/badge/Version_Control-GitHub-informational?style=flat&logo=github&logoColor=white&color=aee2f2)
-![](https://img.shields.io/badge/Version_Control-bitbucket-informational?style=flat&logo=bitbucket&logoColor=white&color=aee2f2)
-![](https://img.shields.io/badge/Project_Management-Jira-informational?style=flat&logo=jira&logoColor=white&color=aee2f2)
-![](https://img.shields.io/badge/API_Tool-Swagger-informational?style=flat&logo=swagger&logoColor=white&color=aee2f2)
-![](https://img.shields.io/badge/Editor-Visual_Studio-informational?style=flat&logo=visual-studio&logoColor=white&color=aee2f2)
-![](https://img.shields.io/badge/Editor-Sublime_Text-informational?style=flat&logo=sublime-text&logoColor=white&color=aee2f2)
-![](https://img.shields.io/badge/IDE-CodeSandbox-informational?style=flat&logo=codesandbox&logoColor=white&color=aee2f2)
-![](https://img.shields.io/badge/Code-Storybook-informational?style=flat&logo=storybook&logoColor=white&color=aee2f2)
-![](https://img.shields.io/badge/Design-Invision-informational?style=flat&logo=invision&logoColor=white&color=aee2f2)
-![](https://img.shields.io/badge/Design-Canva-informational?style=flat&logo=Canva&logoColor=white&color=aee2f2)
+<div display="flex" gridGap="4px">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" alt="Git" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" alt="Bitbucket" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tortoisegit/tortoisegit-original.svg" alt="Tortoise_Git" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" alt="Jira" width="40" height="40"/>
+    <img src="Images/Swagger.svg" alt="Swagger" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="Visual_Studio" width="40" height="40"/>
+    <img src="Images/Sublime.svg" alt="Sublime_Text" width="40" height="40"/>
+    <img src="Images/CodeSandbox.svg" alt="CodeSandbox" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" alt="Storybook" width="40" height="40"/>
+    <img src="Images/Invision.svg" alt="Invision" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="Canva" width="40" height="40"/>
+</div>
 
 ### Familiar With
-<div display="flex">
+<div display="flex" gridGap="4px">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="Python" width="40" height="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="Java" width="40" height="40"/>
@@ -58,14 +60,3 @@ I am Shridhi, a Software Engineer at Compro Technologies and Volunteer at WWCode
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" width="40" height="40"/>
 </div>
-
-<!--
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
