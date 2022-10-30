@@ -45,7 +45,7 @@ I am Shridhi, a Software Engineer at Compro Technologies and Volunteer at WWCode
     <img src="Images/Swagger.svg" alt="Swagger" width="40" height="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="Visual_Studio" width="40" height="40"/>
     <img src="Images/Sublime.svg" alt="Sublime_Text" width="40" height="40"/>
-    <img src="Images/CodeSandbox.svg" alt="CodeSandbox" width="40" height="40"/>
+    <img src="Images/CodeSandBox.svg" alt="CodeSandbox" width="40" height="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" alt="Storybook" width="40" height="40"/>
     <img src="Images/Invision.svg" alt="Invision" width="40" height="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="Canva" width="40" height="40"/>
