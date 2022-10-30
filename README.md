@@ -12,9 +12,9 @@ I am Shridhi, a Software Engineer at Compro Technologies and Volunteer at WWCode
 ## 🛠️ Skills
 
 ### Languages
-![](https://img.shields.io/badge/c++-informational?style=flat&logo=c%2B%2B&logoColor=white&color=aee2f2)
-![JavaScript](https://img.shields.io/badge/javascript-informational?style=flat&logo=javascript&logoColor=aee2f2)
-![TypeScript](https://img.shields.io/badge/typescript-informational?style=flat&logo=typescript&logoColor=aee2f2)
+![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c%2B%2B&logoColor=white&color=aee2f2)
+![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=javascript&logoColor=aee2f2)
+![](https://img.shields.io/badge/Code-Typescript-informational?style=flat&logo=typescript&logoColor=aee2f2)
 
 <!-- ### Frontend
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
