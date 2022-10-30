@@ -12,15 +12,17 @@ I am Shridhi, a Software Engineer at Compro Technologies and Volunteer at WWCode
 ## 🛠️ Skills
 
 ### Languages
-![](https://img.shields.io/badge/_-C++-informational?style=flat&logo=c%2B%2B&logoColor=white&color=aee2f2)
+![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c%2B%2B&logoColor=white&color=aee2f2)
 ![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=javascript&logoColor=white&color=aee2f2)
 ![](https://img.shields.io/badge/Code-Typescript-informational?style=flat&logo=typescript&logoColor=white&color=aee2f2)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
 
 ### Frontend
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=white&color=aee2f2)
 ![](https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=css3&logoColor=white&color=aee2f2)
 ![](https://img.shields.io/badge/Code-Bootstrap-informational?style=flat&logo=bootstrap&logoColor=white&color=aee2f2)
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=%2361DAFB&color=aee2f2)
+![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=aee2f2)
 ![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=redux&logoColor=white&color=aee2f2)
 ![](https://img.shields.io/badge/Code-React_Router-informational?style=flat&logo=react-router&logoColor=white&color=aee2f2)
 ![](https://img.shields.io/badge/Code-Styled_Components-informational?style=flat&logo=styled-components&logoColor=white&color=aee2f2)
