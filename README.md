@@ -60,3 +60,12 @@ I am Shridhi, a Software Engineer at Compro Technologies and Volunteer at WWCode
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>&nbsp;&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" width="40" height="40"/>
 </div>
+
+## 📈 GitHub Stats
+
+<a href="https://github.com/shridhiaggarwal/shridhiaggarwal">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shridhiaggarwal&title_color=ffffff&text_color=ffffff&icon_color=aeef2&bg_color=1d1f21&langs_count=5" />
+</a>
+<a href="https://github.com/shridhiaggarwal/shridhiaggarwal">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=shridhiaggarwal&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=aeef2&bg_color=1d1f21" alt="Shridhi's GitHub Stats" />
+</a>
