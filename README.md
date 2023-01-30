@@ -4,13 +4,10 @@
 
 I am Shridhi, a Software Engineer at Compro Technologies and Volunteer at WWCode FrontEnd. I have been working as a front-end developer for the past few years, and seeing my work live on the web makes me happy. That is why I love FrontEnd!✨
 
-## 📫 You can find me here:
+### 📫 You can find me here:
 <div display="flex">
   <a href="https://twitter.com/shridhiaggarwal"><img src="https://img.icons8.com/color/48/null/twitter--v1.png"/></a>
   <a href="https://www.linkedin.com/in/shridhi-aggarwal/"><img src="https://img.icons8.com/fluency/48/null/linkedin.png"/></a>
-  <!-- <a href="https://twitter.com/shridhiaggarwal">
-    <img src="https://skillicons.dev/icons?i=twitter" />
-  </a> -->
 </div>
 
 ## 🛠️ Skills
