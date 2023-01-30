@@ -4,11 +4,12 @@
 
 I am Shridhi, a Software Engineer at Compro Technologies and Volunteer at WWCode FrontEnd. I have been working as a front-end developer for the past few years, and seeing my work live on the web makes me happy. That is why I love FrontEnd!✨
 
-📫 You can find me here:
-<a href="#"><img src="https://img.icons8.com/color/48/null/twitter--v1.png"/></a>
-![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
+## 📫 You can find me here:
+<div>
+<a href="https://twitter.com/shridhiaggarwal"><img src="https://img.icons8.com/color/48/null/twitter--v1.png"/></a>
+<a href="https://twitter.com/shridhiaggarwal"><img src="https://skillicons.dev/icons?i=twiiter"/></a>
+<a href="https://twitter.com/shridhiaggarwal">[![Twitter](https://skillicons.dev/icons?i=twitter)](https://skillicons.dev)</a>
+</div>
 
 ## 🛠️ Skills
 
@@ -67,5 +68,5 @@ I am Shridhi, a Software Engineer at Compro Technologies and Volunteer at WWCode
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shridhiaggarwal&title_color=ffffff&text_color=ffffff&icon_color=aeef2&bg_color=1d1f21&langs_count=5" />
 </a>
 <a href="https://github.com/shridhiaggarwal/shridhiaggarwal">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=shridhiaggarwal&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=aeef2&bg_color=1d1f21&hide=stars" alt="Shridhi's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=shridhiaggarwal&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=aeef2&bg_color=1d1f21" alt="Shridhi's GitHub Stats" />
 </a>
