@@ -97,4 +97,9 @@ I am Shridhi, a Software Engineer at Compro Technologies and Volunteer at WWCode
 
 <br/>
 
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fshridhiaggarwal&label=Profile%20Views&labelColor=%235b5b5b&countColor=%230c7dbe)
+<p align="end">
+  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fshridhiaggarwal&label=Profile%20Views&labelColor=%235b5b5b&countColor=%230c7dbe"/>
+</p>
+
+<!-- <img src="Images/wave.png" alt="footerWaves"/>&nbsp;&nbsp; -->
+<img src="Images/waves1.svg" alt="footerWaves"/>
