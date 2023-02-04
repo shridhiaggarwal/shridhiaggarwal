@@ -1,13 +1,17 @@
 <img src="https://github.com/shridhiaggarwal/shridhiaggarwal/blob/main/Images/Banner.png" alt="banner" width="100%">
 
-# Hello!! <img src="https://github.com/shridhiaggarwal/shridhiaggarwal/blob/main/Images/wave.gif" width="30px">
+# Hello!! <img src="https://github.com/shridhiaggarwal/shridhiaggarwal/blob/main/Images/wave.gif" alt="handWave" width="30px">
 
 I am Shridhi, a Software Engineer at Compro Technologies and Volunteer at WWCode FrontEnd. I have been working as a front-end developer for the past few years, and seeing my work live on the web makes me happy. That is why I love FrontEnd!✨
 
-#### 📫 You can find me here:
+### 📫 You can find me here:
 <div display="flex">
-  <a href="https://twitter.com/shridhiaggarwal"><img src="https://img.icons8.com/color/30/null/twitter--v1.png"/></a>
-  <a href="https://www.linkedin.com/in/shridhi-aggarwal/"><img src="https://img.icons8.com/fluency/30/null/linkedin.png"/></a>
+  <a href="https://twitter.com/shridhiaggarwal">
+    <img src="https://img.icons8.com/color/36/null/twitter--v1.png" alt="Twitter"/>
+  </a>
+  <a href="https://www.linkedin.com/in/shridhi-aggarwal/">
+    <img src="https://img.icons8.com/fluency/36/null/linkedin.png" alt="LinkedIn"/>
+  </a>
 </div>
 
 ## 🛠️ Skills
@@ -90,3 +94,7 @@ I am Shridhi, a Software Engineer at Compro Technologies and Volunteer at WWCode
 <a href="https://github.com/shridhiaggarwal/shridhiaggarwal">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=shridhiaggarwal&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=aeef2&bg_color=1d1f21" alt="Shridhi's GitHub Stats" />
 </a>
+
+<br/>
+
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fshridhiaggarwal&label=Profile%20Views&labelColor=%235b5b5b&countColor=%230c7dbe)
