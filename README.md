@@ -4,15 +4,52 @@
 
 I am Shridhi, a Software Engineer at Compro Technologies and Volunteer at WWCode FrontEnd. I have been working as a front-end developer for the past few years, and seeing my work live on the web makes me happy. That is why I love FrontEnd!✨
 
-### 📫 You can find me here:
+#### 📫 You can find me here:
 <div display="flex">
-  <a href="https://twitter.com/shridhiaggarwal"><img src="https://img.icons8.com/color/48/null/twitter--v1.png"/></a>
-  <a href="https://www.linkedin.com/in/shridhi-aggarwal/"><img src="https://img.icons8.com/fluency/48/null/linkedin.png"/></a>
+  <a href="https://twitter.com/shridhiaggarwal"><img src="https://img.icons8.com/color/30/null/twitter--v1.png"/></a>
+  <a href="https://www.linkedin.com/in/shridhi-aggarwal/"><img src="https://img.icons8.com/fluency/30/null/linkedin.png"/></a>
 </div>
 
 ## 🛠️ Skills
 
-### Languages
+<table>
+  <tr>
+    <td>
+      <h3>Languages</h3>
+    </td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>&nbsp;&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>&nbsp;&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h3>Frontend</h3>
+    </td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>&nbsp;&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>&nbsp;&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40"/>&nbsp;&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>&nbsp;&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="Redux" width="40" height="40"/>&nbsp;&nbsp;
+      <img src="Images/ReactRouter.svg" alt="React_Router" width="40" height="40"/>&nbsp;&nbsp;
+      <img src="Images/StyledComponent.svg" alt="Styled_Component" width="40" height="40"/>&nbsp;&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-plain.svg" alt="MUI" width="40" height="40"/>&nbsp;&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg" alt="jQuery" width="40" height="40"/>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h3>Database</h3>
+    </td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
+    </td>
+  </tr>
+</table>
+
+<!-- ### Languages
 <div display="flex !important">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>&nbsp;&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>&nbsp;&nbsp;
@@ -30,10 +67,10 @@ I am Shridhi, a Software Engineer at Compro Technologies and Volunteer at WWCode
     <img src="Images/StyledComponent.svg" alt="Styled_Component" width="40" height="40"/>&nbsp;&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-plain.svg" alt="MUI" width="40" height="40"/>&nbsp;&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg" alt="jQuery" width="40" height="40"/>
-</div>
+</div> -->
 
-### Database
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
+<!-- ### Database
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/> -->
 
 ### Tools
 <div display="flex">
