@@ -40,7 +40,7 @@ I am Shridhi, a Software Engineer at Compro Technologies and Volunteer at WWCode
       <img src="Images/ReactRouter.svg" alt="React_Router" width="40" height="40"/>&nbsp;&nbsp;
       <img src="Images/StyledComponent.svg" alt="Styled_Component" width="40" height="40"/>&nbsp;&nbsp;
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-plain.svg" alt="MUI" width="40" height="40"/>&nbsp;&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg" alt="jQuery" width="40" height="40"/>
+      <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg" alt="jQuery" width="40" height="40"/> -->
     </td>
   </tr>
   <tr>
@@ -68,6 +68,7 @@ I am Shridhi, a Software Engineer at Compro Technologies and Volunteer at WWCode
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" alt="Storybook" width="40" height="40"/>&nbsp;&nbsp;
       <img src="Images/Invision.svg" alt="Invision" width="40" height="40"/>&nbsp;&nbsp;
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="Canva" width="40" height="40"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
     </td>
   </tr>
   <tr>
@@ -88,18 +89,15 @@ I am Shridhi, a Software Engineer at Compro Technologies and Volunteer at WWCode
 
 ## 📈 GitHub Stats
 
-<a href="https://github.com/shridhiaggarwal/shridhiaggarwal">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shridhiaggarwal&title_color=ffffff&text_color=ffffff&icon_color=aeef2&bg_color=1d1f21&langs_count=5" />
+<a href="https://github.com/shridhiaggarwal">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shridhiaggarwal&title_color=ffffff&text_color=ffffff&bg_color=1d1f21&langs_count=5" alt="Shridhi's Language Stats"/>
 </a>
-<a href="https://github.com/shridhiaggarwal/shridhiaggarwal">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=shridhiaggarwal&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=aeef2&bg_color=1d1f21" alt="Shridhi's GitHub Stats" />
+<a href="https://github.com/shridhiaggarwal">
+  <img src="https://github-readme-stats.vercel.app/api?username=shridhiaggarwal&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=aee2f2&bg_color=1d1f21&ring_color=aee2f2" alt="Shridhi's GitHub Stats" />
 </a>
 
-<br/>
-
-<p align="end">
+<!-- <p align="end">
   <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fshridhiaggarwal&label=Profile%20Views&labelColor=%235b5b5b&countColor=%230c7dbe"/>
-</p>
+</p> -->
 
-<!-- <img src="Images/wave.png" alt="footerWaves"/>&nbsp;&nbsp; -->
-<img src="Images/waves1.svg" alt="footerWaves"/>
+<img src="Images/footerWave1.png" alt="footerWaves"/>
